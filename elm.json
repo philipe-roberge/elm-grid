@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "philipe-roberge/elm-grid",
-    "summary": "Useful functions for css-grid containers",
+    "summary": "Easier creation of css-grid containers",
     "version": "1.0.0",
     "test-dependencies": {},
     "source-directories": [
