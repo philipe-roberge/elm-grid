@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "philipe-roberge/elm-grid",
+    "name": "proberge-dev/elm-grid",
     "summary": "Easier creation of css-grid containers",
     "version": "1.0.0",
     "test-dependencies": {},

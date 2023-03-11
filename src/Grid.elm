@@ -93,12 +93,7 @@ templateCols value =
 -- Alignment
 
 
-{-| Determine alignment.
-```
-type Alignment
-  = Start | End | Center | Stretch
-```
--}
+{-| Determine alignment. -}
 type Alignment 
   = Start | End | Center | Stretch
 
